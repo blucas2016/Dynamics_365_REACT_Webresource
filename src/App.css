@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.footerDiv {
+  position: absolute;
+  bottom: 0;
+  width: 98%;
+}
